@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-gurmeshevski&label=Profile%20views&color=0e75b6&style=flat" alt="mario-gurmeshevski" /> </p>
 
-- I’m currently working on **A honey E-commerce site named Makmela**
+- I’m currently working on **A honey E-commerce site named [Makmela](https://makmela-app.vercel.app/)**
 
 - I’m currently learning **C++, React, Angular**
 
-- I’m looking for help with the security of the **Honey E-commerce site named Makmela**
+- I’m looking for help with the security of the **Honey E-commerce site named [Makmela](https://makmela-app.vercel.app/)**
 
 - All of my projects are available at [https://github.com/mario-gurmeshevski](https://github.com/mario-gurmeshevski)
 
