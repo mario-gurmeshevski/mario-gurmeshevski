@@ -1,28 +1,47 @@
-<h1 align="center">Hi 👋, I'm Mario Gurmeshevski</h1>
-<h3 align="center">I'm a full-stack developer coming from Macedonia.</h3>
+# Hi 👋, I'm Mario Gurmeshevski
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mario-gurmeshevski&label=Profile%20views&color=0e75b6&style=flat" alt="mario-gurmeshevski" /> </p>
+### I'm a full-stack developer coming from Macedonia.
 
-- I’m currently working on **A honey E-commerce site named [Makmela](https://makmela-app.vercel.app/)**
+![mario-gurmeshevski](https://komarev.com/ghpvc/?username=mario-gurmeshevski&label=Profile%20views&color=0e75b6&style=flat) &nbsp;
+![version :10.06.2025](https://img.shields.io/badge/version-10.06.2025-informational) &nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success) &nbsp;
 
-- I’m currently learning **C++, React, Angular**
+- I'm currently working on **A honey E-commerce site named [Makmela](https://makmela-app.vercel.app/)**
 
-- I’m looking for help with the security of the **Honey E-commerce site named [Makmela](https://makmela-app.vercel.app/)**
+- I'm currently learning **C++, React, Angular**
 
-- All of my projects are available at [https://github.com/mario-gurmeshevski](https://github.com/mario-gurmeshevski)
+- I'm looking for help with the security of the **Honey E-commerce site named [Makmela](https://makmela-app.vercel.app/)**
 
-- I'm trying to learn **Mobile Development, Cyber Security**
+- Most of my projects are available at [https://github.com/mario-gurmeshevski](https://github.com/mario-gurmeshevski)
+
+- I'm trying to get into **Mobile Development, Cyber Security**
 
 - How to reach me **gurmesevskimario@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mario-gurmeshevski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mario-gurmeshevski" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mario-gurmeshevski)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mario-gurmeshevski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-gurmeshevski-372644291/)
 
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario-gurmeshevski&show_icons=true&locale=en&layout=compact" alt="mario-gurmeshevski" /></p>
--->
+### Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD1100)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=orange)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![mario-gurmeshevski](https://github-readme-stats.vercel.app/api/top-langs?username=mario-gurmeshevski&show_icons=true&locale=en&layout=compact)
